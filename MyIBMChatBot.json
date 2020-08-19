@@ -895,23 +895,7 @@
       "description": ""
     }
   ],
-  "entities": [
-    {
-      "entity": "كورونا",
-      "values": [
-        {
-          "type": "synonyms",
-          "value": "كورونا",
-          "synonyms": [
-            "كرونا",
-            "كوفيد",
-            "كوفيد-19"
-          ]
-        }
-      ],
-      "fuzzy_match": true
-    }
-  ],
+  "entities": [],
   "metadata": {
     "api_version": {
       "major_version": "v2",
